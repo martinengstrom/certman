@@ -1,0 +1,16 @@
+{
+  "name": "certman",
+  "version": "1.0.0",
+  "description": "certificate authority manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "pem": "^1.8.3"
+  }
+}
